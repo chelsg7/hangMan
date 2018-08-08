@@ -1,7 +1,7 @@
 {
   "name": "hangMan",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "/index.js",
   "repository": "https://github.com/chelsg7/hangMan.git",
   "author": "thorc <chelsgieck@gmail.com>",
   "license": "MIT"
